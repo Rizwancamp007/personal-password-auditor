@@ -285,7 +285,7 @@ The standalone HTML report features:
 ---
 
 ## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+Built with ❤️ by Rizwan Khan © 2026
 
 ---
 
